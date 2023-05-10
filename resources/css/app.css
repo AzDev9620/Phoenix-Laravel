@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/*.ck-editor__editable {
+    min-height: 200px !important;
+}*/
+
+.h-screen-h {
+    height: calc(100vh - 200px)
+}
